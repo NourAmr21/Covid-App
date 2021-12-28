@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/drawable-v24/icphone.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_call.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_edit2.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_edit_photo.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_hello.xml" value="0.15761193581162822" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_map.xml" value="0.17910447251321387" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_map2.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_photo.xml" value="0.17910447251321387" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_register.xml" value="0.17910447251321387" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_register_d.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_request.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_request_list.xml" value="0.13632246376811594" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_signin.xml" value="0.35820894502642775" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_tabs.xml" value="0.17910447251321387" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_tabs2.xml" value="0.39372822299651566" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/activity_user_data.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/content_edit.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/dialog.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/edit_p.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_hospitals.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_hospitals_d.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_hospitals_p.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_profile.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_profile1.xml" value="0.5373134175396416" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_request_d.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_request_d2.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_requests.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_stats.xml" value="0.129981884057971" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/fragment_tabbed.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/item.xml" value="0.2542955326460481" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/item_hosp.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/item_p.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/item_stats.xml" value="0.64477610104757" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/itemdesign.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/location_hosp.xml" value="0.1640625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/profile_p.xml" value="0.15761193581162822" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/CovidApp/app/src/main/res/layout/reply.xml" value="0.19519927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
